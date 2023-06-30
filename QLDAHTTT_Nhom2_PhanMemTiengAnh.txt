@@ -1,0 +1,371 @@
+TRU?NG Ð?I H?C THANG LONG
+B? MÔN TIN H?C
+---o0o---
+BÀI T?P L?N
+XÂY D?NG PH?N M?M TRA C?U T? ÐI?N TI?NG ANH 
+
+
+
+	GIÁO VIÊN HU?NG D?N	SINH VIÊN TH?C HI?N
+	- ThS. Tr?n Quang Duy	A40726 - T? Quang Anh
+		A40946 - Ph?m T.Tuy?t Chinh
+		A38437 - Lý Bá Thi?n
+HÀ N?I - 2023
+M?C L?C
+
+Ph?n 1.	T?ng quan d? án	1
+1.	Ph?m vi d? án	1
+Ph?n 2.	T? ch?c d? án	3
+Ph?n 3.	Qu?n lý nhân l?c và môi tru?ng	5
+1.	Các giai do?n th?c hi?n	5
+2.	Các công vi?c trong t?ng giai do?n	5
+Ph?n 4.	Co s? v?t ch?t	6
+1.	Máy ch?	6
+2.	Các công ngh? s? d?ng	7
+3.	Máy tr?m	8
+4.	Qu?n lý truy?n thông	9
+Ph?n 5.	L?ch trình th?c hi?n	10
+Ph?n 6.	Qu?n lý r?i ro	12
+Ph?n 7.	Qu?n lý c?u hình	16
+1.	Các m?c c?u hình	16
+2.	Baseline	16
+3.	Các m?c ki?m soát	17
+4.	Co ch? d?t tên và dánh s?	18
+5.	C?u trúc thu m?c	19
+6.	Qu?n lý phân quy?n	20
+7.	Sao luu d? phòng	21
+8.	Các tài li?u , s?n ph?m c?n bàn giao	21
+Ph?n 8.	KI?M TH? VÀ Ð?M B?O CH?T LU?NG	22
+Ph?n 9.	Microsoft Project	24
+Ph?n 10.	GITHUB	25
+
+DANH M?C HÌNH ?NH
+B?ng 1.Ma tr?n công vi?c và trách nhi?m	4
+B?ng 2.B?ng mô t? nh?ng ngu?i tham gia th?c hi?n d? án theo t?ng giai do?n	5
+B?ng 3. B?ng mô t? các công vi?c ? các giai do?n	5
+B?ng 4.L?ch trình th?c hi?n	11
+B?ng 5. B?ng bi?u phân tích r?i ro c?a d? án	15
+B?ng 6.B?ng m?c l?c các c?u hình	16
+B?ng 7.B?ng baseline	17
+B?ng 8.Các m?c ki?m soát	18
+B?ng 9.C?u trúc c?a m?t thu m?c co b?n	19
+B?ng 10.B?ng chi ti?t c?u trúc c?a m?t thu m?c	20
+B?ng 11.B?ng qu?n lý phân quy?n	21
+B?ng 12.B?ng sao luu	21
+B?ng 13.B?ng chi ti?t c?n bàn giao	21
+B?ng 14.Các tiêu chí dánh giá	23
+
+	
+Ph?n 1. T?NG QUAN D? ÁN
+1. Ph?m vi d? án
+    Xu?t phát t? mong mu?n có th? giúp vi?c h?c ti?ng Anh, giao ti?p ti?ng Anh tr? nên nh? nhàng hon, chúng mình dã lên ý tu?ng t?o ra ?ng d?ng có th? d?ch thu?t ti?ng Anh. ?ng d?ng h? tr? ngu?i dùng tra c?u nghia c?a t? (c?m t?/ câu) t? ti?ng Vi?t sang ti?ng Anh ho?c ngu?c l?i. Ð?ng th?i ph?n m?m còn tích h?p ch?c nang cho phép luu tr?, t?ng h?p và ôn t?p l?i t? dã tra c?u. 
+    Tên d? án: Xây d?ng ph?n m?m tra c?u t? di?n ti?ng Anh  
+    Mã d? án: QLDA02. 
+    Mã hi?u tài li?u: QLDA_MH_v1.0. 
+    Giám d?c d? án: T? Quang Anh  
+    Ngu?i qu?n lý d? án: T? Quang Anh  
+    Th?i gian th?c hi?n d? án: 6 tháng
+    T?ng th?i gian: 1200h	
+    Th?i gian b?t d?u: 1/1/2023	
+    Th?i gian k?t thúc: 24/6/2023
+    Danh sách t? d? án: 3 ngu?i  
+    Ph?m Th? Tuy?t Chinh 
+    T? Quang Anh 
+    Lý Bá Thi?n 
+    
+    Ngu?i dùng: Khách hàng mu?n tra c?u nghia c?a t? nhanh và chính xác, có th? nghe phát âm chu?n, phiên âm chu?n. Ph?n m?m du?c t?o ra d? hi?n th?c hóa nhu c?u dó c?a khách hàng. Ð?ng th?i giúp khách hàng có th? xem l?i, ôn t?p l?i t? m?i hi?u qu? nh?t, s?n sàng cho phép tra c?u m?i lúc m?i noi.
+Các ch?c nang chính có trong d? án:
+* Ðang nh?p, dang ký, dang xu?t tài kho?n.
+* Tra c?u online ho?c offline.
+* Phân lo?i các t? d? h?c.
+* Ôn t?p và ki?m tra luu tr?.
+
+     Ngu?i dùng ph?n m?m có nh?ng ch?c nang co b?n và quy?n l?i nhu:
+* Ð?i v?i khách hàng:
+* Ngu?i dùng có tài kho?n
+* Ðang nh?p, dang ký, dang xu?t tài kho?n
+* Qu?n lý thông tin tài kho?n cá nhân 
+* Tra c?u online/ offline (trên giao di?n ph?n m?m ho?c trên c?a s? tra nhanh) 
+* D?ch hình ?nh, camera, âm thanh  
+* Xem l?ch s? tra c?u 
+* Báo cáo ch?nh s?a
+* Ôn t?p, ki?m tra l?i d?a trên danh sách t? dánh d?u
+* Ngu?i dùng không có tài kho?n
+* Tra c?u
+* Tra c?u online/ offline (trên giao di?n ph?n m?m ho?c trên c?a s? tra nhanh)
+* D?ch hình ?nh, camera, âm thanh
+* Ð?i v?i thành viên c?a h? th?ng
+* Qu?n lý tài kho?n ngu?i dùng
+* Qu?n lý tài nguyên (tài nguyên t? v?ng)
+* Qu?n lý ph?n h?i ngu?i dùng
+* Báo cáo th?ng kê k?t qu?  
+* Thông báo nh?c nh? ôn t?p  
+* Qu?n lý giao d?ch (nâng c?p tài kho?n)
+
+Ph?n 2. T? CH?C D? ÁN
+Nhóm 2: g?m có 3 thành viên:
+* A40726 - T? Quang Anh
+* A40946 - Ph?m Th? Tuy?t Chinh
+* A38437 - Lý Bá Thi?n
+
+Qu?n lý d? án: T? Quang Anh
+> Nhóm nghi?p v?: 
+* Tru?ng nhóm: T? Quang Anh
+* Thành viên:
+o Ph?m Th? Tuy?t Chinh
+o Lý Bá Thi?n
+> Nhóm PTTK:
+* Tru?ng nhóm: Ph?m Th? Tuy?t Chinh
+* Thành viên:
+o T? Quang Anh
+> Nhóm l?p trình:
+* Tru?ng nhóm: T? Quang Anh
+* Thành viên:
+o Lý Bá Thi?n
+> Nhóm tri?n khai :
+* Tru?ng nhóm: T? Quang Anh
+* Thành viên:
+o Ph?m Th? Tuy?t Chinh
+o Lý Bá Thi?n
+> Nhóm ki?m th?:
+* Tru?ng nhóm: Lý Bá Thi?n
+* Thành viên:
+o T? Quang Anh
+o Ph?m Th? Tuy?t Chinh
+> Nhóm c?u hình
+* Tru?ng nhóm: Lý Bá Thi?n
+* Thành viên:
+o T? Quang Anh
+
+
+
+Hình 1.T? ch?c qu?n lý
+
+Ma tr?n trách nhi?m 
+Tên thành viên th?c hi?n công vi?cKh?o sátPhân
+Tích ch?c nangThi?t k? csdlThi?t k? giao di?nL?p trình , tích h?p h? th?ngKi?m th? và s?a l?iK?t thúc d? ánT? Quang AnhPPA,PPA,R,PIPPh?m Th? Tuy?t ChinhA,PPPPCIPLý Bá Thi?nPPPPR,PPPB?ng 1.Ma tr?n công vi?c và trách nhi?m
+Chú thích: 
+Các ki?u trách nhi?m khác nhau trên công vi?c: 
+A (Approving): Xét duy?t 
+P (Performing): Th?c hi?n 
+R (Reviewing): Th?m d?nh 
+C (Contributing): Tham gia dóng góp 
+I (Informing): Báo cho bi?t  
+ 
+
+Ph?n 3. QU?N LÝ NHÂN L?C VÀ MÔI TRU?NG
+1. Các giai do?n th?c hi?n
+Giai do?n th?c hi?n  Th?i gian th?c hi?n (Ngày)S? ngu?iQuy mô  
+(Ngày công)Ghi chúKh?o sát chu?n b?  503150 (6.25 mm)Phân tích thi?t k?  35270 (2.92 mm)L?p trình 36272 (3 mm)Ki?m th?  21363 (2.63 mm)Tri?n khai 10330 (1.25 mm)T?ng  152385 (16.05 mm)1 mm=24 md  B?ng 2.B?ng mô t? nh?ng ngu?i tham gia th?c hi?n d? án theo t?ng giai do?n
+2. Các công vi?c trong t?ng giai do?n
+Tên công vi?c  Th?i gian th?c hi?n (ngày) S? ngu?i  Quy mô (Ngày công) Ghi chú  Chu?n b? d? án  30390 (3.75 mm)Kh?o sát 26252 (2.167 mm)Phân tích  24248 (2 m)Thi?t k? 27381 (3.375 mm)L?p trình 33266 (2.75 mm)Ki?m th?  593177 (7.375 mm)Tri?n khai 10330 (1.25 mm)T?ng 212544 (22.667 mm)1mm= 24 md
+B?ng 3. B?ng mô t? các công vi?c ? các giai do?n
+
+Ph?n 4. CO S? V?T CH?T
+1. Máy ch?
+A. Ph?n c?ng:
+CPURAMHDDArchitectureIntel core i9-10900k32 GB1 TB64 bit* ? c?ng SAS: 100GB
+* Bandwidth: 100Mbps
+* Data transfer: Unlimited
+B. Ph?n m?m
+Môi tru?ng phát tri?n
+* Windows 10,11
+Môi tru?ng ch?y ph?n m?m
+* Windows 10, Android 12
+    Ngôn ng? l?p trình:
+* Kotlin
+* C#
+* Java
+    Công c? l?p trình/thi?t k?:
+Tên ph?n m?mPhiên b?nGhi chú   Android studio3.6.2Dùng d? code    Ms Office 2016B? công c? d? so?n th?o   MS SQL2014Luu tr? d? li?u     
+    Các công c? khác:
+* Facebook
+* UniKey 4.0 
+* Nox, BlueStack: ph?n m?m gi? l?p ch?y ?ng d?ng Android trên máy tính
+* Messenger
+* Brave
+* Microsoft Word 2016
+* Microsoft Team
+* Github , Gitlab
+
+2. Các công ngh? s? d?ng
+* Android Studio
+
+    Android Studio là công c? phát tri?n ?ng d?ng Android chính th?c do h? di?u hành Android khuy?n ngh? và h? tr? lâu dài. Công c? này du?c t?i uu và cung c?p các ch?c nang chuyên bi?t cho l?p trình Android b?ng ngôn ng? Kotlin (tru?c dây là java)
+- MS SQL 
+* Ph?n m?m du?c Microsoft phát tri?n d?a trên RDBMS.
+* Cung là m?t ORDBMS (H? qu?n tr? co s? d? li?u quan h? d?i tu?ng).
+* M?t n?n t?ng d?c l?p.
+* Ph?n m?m s? d?ng c? giao di?n dòng l?nh và giao di?n GUI.
+* H? tr? ngôn ng? SQL (tru?c dây là SEQUEL - ngôn ng? truy v?n ti?ng Anh có c?u trúc) - v?n là s?n ph?m c?a IBM.
+
+
+
+3. Máy tr?m
+A. Ph?n c?ng:
+CPURAMHDDArchitectureIntel core i9 - 10850k32 GB1 TB64 bit* ? c?ng SAS: 100GB
+* Bandwidth: 100Mbps
+* Data transfer: Unlimited
+B. Ph?n m?m
+Môi tru?ng ch?y h? th?ng
+* Windows 10, Android 12
+    Công c? ch?y h? th?ng
+* Android studio
+    Các công c? khác:
+* UniKey 4.0 RC2
+* MS SQL
+
+
+4. Qu?n lý truy?n thông
+Các công c? h? tr? trao d?i tin nh?n, d? li?u:
+* Gi?a các thành viên trong d? án
+* Facebook 
+* Discord 
+* Zalo
+* Gmail
+* Google Drive
+* Microsoft Team
+Ph?n 5. L?CH TRÌNH TH?C HI?N
+STTCông vi?cS? ngàyB?t d?uK?t thúcNgu?i th?c hi?n1 Chu?n b? d? án 30 days Thu 6/1/23Wed 7/12/23Chinh,Quang Anh,Thi?n 1.1 Kh?i t?o d? án 15 days Thu 6/1/23Wed 6/21/23Chinh,Quang Anh,Thi?n 1.2 Xác d?nh ph?m vi 2 days Thu 6/22/23Fri 6/23/23Thi?n 1.3 Xác d?nh và cài d?t môi tru?ng d? án 7 days Mon 6/26/23Tue 7/4/23Quang Anh,Thi?n 1.4 Xác d?nh và phân tích r?i ro 4 days Wed 7/5/23Mon 7/10/23Chinh,Thi?n 1.5 T?ng h?p tài li?u chu?n b? d? án 1 day Tue 7/11/23Tue 7/11/23Chinh,Quang Anh,Thi?n 1.6 MKS | Kh?i t?o d? án 1 day Wed 7/12/23Wed 7/12/23Chinh,Quang Anh,Thi?n 2 Kh?o sát 26 days Thu 7/13/23Thu 8/17/23Chinh,Thi?n 2.1 Kh?o sát nghi?p v? qu?n lý tài kho?n ngu?i dùng 4 days Thu 7/13/23Tue 7/18/23Thi?n 2.2 Kh?o sát nghi?p v? qu?n lý tài nguyên 4 days Wed 7/19/23Mon 7/24/23Thi?n 2.3 Kh?o sát nghi?p v? tra c?u 4 days Tue 7/25/23Fri 7/28/23Thi?n 2.4 Kh?o sát nghi?p v? qu?n lý ph?n h?i ngu?i dùng 4 days Mon 7/31/23Thu 8/3/23Chinh 2.5 Kh?o sát nghi?p v? qu?n lý th?ng kê 4 days Fri 8/4/23Wed 8/9/23Chinh 2.6 Kh?o sát nghi?p v? qu?n lý thông báo 4 days Thu 8/10/23Tue 8/15/23Chinh 2.7 T?ng h?p tài li?u kh?o sát 1 day Wed 8/16/23Wed 8/16/23Chinh,Thi?n 2.8 MKS | Xác d?nh yêu c?u h? th?ng 1 day Thu 8/17/23Thu 8/17/23Chinh,Thi?n 3 Phân tích 24 days Fri 8/18/23Wed 9/20/23Chinh,Quang Anh 3.1 Mô hình hóa quy trình nghi?p v? 6 days Fri 8/18/23Fri 8/25/23Chinh,Quang Anh 3.2 Li?t kê các ch?c nang chính và xây d?ng so d? t?ng quan các ch?c nang, so d? lu?ng công vi?c 5 days Mon 8/28/23Fri 9/1/23Chinh,Quang Anh 3.3 Mô t? các tác nhân, th?c th?, các ch?c nang chính 5 days Mon 9/4/23Fri 9/8/23Chinh,Quang Anh 3.4 Ð?c t? các ch?c nang chính c?a h? th?ng và vi?t tài li?u d?c t? 5 days Mon 9/11/23Fri 9/15/23Chinh,Quang Anh 3.5 L?a ch?n ki?n trúc h? th?ng, co s? d? li?u 1 day Mon 9/18/23Mon 9/18/23Chinh,Quang Anh 3.6 T?ng h?p tài li?u phân tích 1 day Tue 9/19/23Tue 9/19/23Chinh,Quang Anh 3.7 MKS| Phân tích 1 day Wed 9/20/23Wed 9/20/23Chinh,Quang Anh 4 Thi?t k? h? th?ng 27 days Thu 9/21/23Fri 10/27/23Chinh,Quang Anh,Thi?n 4.1 Thi?t k? so d? l?p phân tích cho các ch?c nang 5 days Thu 9/21/23Wed 9/27/23Chinh,Quang Anh,Thi?n 4.2 Thi?t k? so d? trình t? cho các ch?c nang 5 days Thu 9/28/23Wed 10/4/23Quang Anh,Thi?n 4.3 Thi?t k? so d? l?p chi ti?t cho các ch?c nang 5 days Thu 10/5/23Wed 10/11/23Chinh,Thi?n 4.4 Thi?t k? co s? d? li?u 5 days Thu 10/12/23Wed 10/18/23Quang Anh,Thi?n 4.5 Thi?t k? giao di?n 5 days Thu 10/19/23Wed 10/25/23Chinh,Quang Anh,Thi?n 4.6 T?ng h?p tài li?u thi?t k? h? th?ng 1 day Thu 10/26/23Thu 10/26/23Chinh,Quang Anh,Thi?n 4.7 MKS | Thi?t k? 1 day Fri 10/27/23Fri 10/27/23Quang Anh,Thi?n 5 Xây d?ng h? th?ng 33 days Mon 10/30/23Wed 12/13/23Quang Anh,Thi?n 5.1 Xây d?ng co s? d? li?u 9 days Mon 10/30/23Thu 11/9/23Thi?n 5.2 Xây d?ng giao di?n 9 days Fri 11/10/23Wed 11/22/23Quang Anh 5.3 Xây d?ng ch?c nang 9 days Thu 11/23/23Tue 12/5/23Quang Anh,Thi?n 5.4 Ghép các module chuong trình d? t?o m?t chuong trình hoàn ch?nh 3 days Wed 12/6/23Fri 12/8/23Quang Anh,Thi?n 5.5 Vi?t tài li?u xây d?ng h? th?ng 3 days Mon 12/11/23Wed 12/13/23Quang Anh,Thi?n 6 Ki?m Th? 59 days Thu 12/14/23Tue 3/5/24Chinh,Quang Anh,Thi?n 6.1 Ki?m th? h? th?ng 35 days Thu 12/14/23Wed 1/31/24Chinh,Quang Anh,Thi?n 6.2 S?a các l?i phát hi?n du?c 15 days Thu 2/1/24Wed 2/21/24Quang Anh,Thi?n 6.3 Ki?m th? l?i và kh?c ph?c l?i 7 days Thu 2/22/24Fri 3/1/24Chinh,Quang Anh,Thi?n 6.4 T?ng h?p tài li?u ki?m th? 2 days Mon 3/4/24Tue 3/5/24Chinh,Quang Anh,Thi?n 7 Tri?n khai h? th?ng 10 days Wed 3/6/24Tue 3/19/24Chinh,Quang Anh,Thi?n 7.1 Cài d?t h? th?ng 4 days Wed 3/6/24Mon 3/11/24Quang Anh,Thi?n 7.2 Hu?ng d?n s? d?ng 4 days Tue 3/12/24Fri 3/15/24Chinh 7.3 Vi?t tài li?u tri?n khai 2 days Mon 3/18/24Tue 3/19/24Chinh 8    T?ng k?t và k?t thúc d? án 3 days Wed 3/20/24Fri 3/22/24Chinh,Quang Anh,Thi?n B?ng 4.L?ch trình th?c hi?n
+
+Ph?n 6. QU?N LÝ R?I RO
+
+Mã hi?u r?i ro Mô t? r?i ro M?c d? ?nh hu?ng  Bi?n pháp kh?c ph?c Bi?n pháp phòng ng?a  R?i ro d? án RR01 Ph?n m?m b? qua m?t s? ch?c nang mà khách hàng ch? d?nh  Cao  Lên k? ho?ch c?i thi?n b? sung thêm các ch?c nang còn thi?u  Ð?c k? các yêu c?u c?a khách hàng, giám sát quy trình  RR02 Không d?m b?o ti?n d? th?i gian 
+ Cao 
+ Dùng các bi?n pháp d? tang cu?ng ti?n d? c?a d? án, s?p x?p, dánh giá ch?t lu?ng làm vi?c c?a nhóm. Có s? tinh ch?nh l?i ph?n phân công công vi?c gi?a các nhân viên sao cho phù h?p nh?t. 
+ Ðánh giá lu?ng công vi?c t? dó ph?ng doán th?i gian t?i thi?u th?c hi?n d? án, thuong th?o v?i khách hàng kho?ng th?i gian mù d? khách hàng cân nh?c. Thông báo v?i nhóm, d?t l?ch, theo sát ti?n d? d? án RR03 Nhóm d? án không hi?u rõ yêu c?u c?a khách hàng, yêu c?u mo h?, mâu thu?n ho?c không du?c uu tiên Cao Trao d?i l?i v?i khách hàng, dua ra hu?ng gi?i quy?t, và d?m b?o d? án du?c ch?nh s?a di dúng hu?ng v?i yêu c?u c?a khách hàng C?n trao d?i k? k? ho?ch, ph?m vi d? án v?i khách hàng. Ð?t câu h?i khi c?n thi?t, d?c t? chi ti?t d? án d?m b?o d? án không di sai hu?ng RR04 Ðánh giá sai m?c d?, kích c? c?a d? án Trung bình  Ðánh giá l?i kích c? c?a d? án. N?u d? án quá l?n và ph?c t?p nhóm d? án c?n phân tách d? án thành nh?ng d? án nh? hon. Có k? ho?ch phân công và giám sát quy trình th?c hi?n d? án Ðánh giá d? án, d? doán các v?n d? d?a trên các kh? nang và tác d?ng. Có k? ho?ch c? th? d? tri?n khai d? án 
+ R?i ro v? k? thu?t RR05 Thi?u nhân s?  Cao Tri?n khai phân công nhân viên thay th?, s?n sàng các phuong án d? phòng, thuê thêm ngay khi c?n thi?t  Ðánh giá m?c d?, quy mô, lu?ng công vi?c c?a d? án, lên k? ho?ch thay th? trong tru?ng h?p c?n thi?t  RR06 Nhân viên thi?u k? nang, kinh nghi?m  Trung bình  Yêu c?u nhân viên t? trau d?i ki?n th?c, các thành viên trong nhóm training, hu?ng d?n l?n nhau.Tru?ng h?p c?n thi?t có th? thuê chuyên gia d? hu?ng d?n cho thành viên c?a nhóm. Ðánh giá nang l?c t?ng thành viên d? có k? ho?ch c? th?  Ki?m tra nang l?c nhân viên tru?c khi cho tham gia vào d? án, d?m b?o trình d? c?a nhân viên là phù h?p v?i d? án tham gia  RR07 R?i ro trong thi?t k? d? án : so sài, vô lý, không th?ng nh?t, phù h?p Cao Ð?m b?o nhóm d? án có k? ho?ch dánh giá, thông nh?t và di?u ch?nh l?i vi?c tri?n khai thi?t k? k? ho?ch th?c hi?n d? án. C?n th?ng nh?t d?i phuong hu?ng thích h?p cho ra b?n thi?t k? chi ti?t và chính xác nh?t 
+ Tru?c khi tri?n khai vi?c thi?t k? d? án, vi?c l?p k? ho?ch, phân tích ph?m vi, ch?c nang chính c?a h? th?ng c?n ph?i du?c l?p l?i nhi?u l?n gi?a nhóm d? án và khách hàng tránh tru?ng h?p thi?t k? b? sai d?n d?n toàn b? d? án di l?ch hu?ng 
+ RR08 R?i ro trong ki?m th? ph?n m?m: S?a ch?a ch?m tr? các v?n d? du?c tìm th?y trong khi ki?m th? ; Môi tru?ng ki?m th? không d?m b?o Cao  Nhanh chóng phát hi?n, x? lý các v?n d? phát sinh trong quá trình ki?m th?. Ki?m tra l?i môi tru?ng ki?m th?, t? dó dua ra phuong án thay th? cho phù h?p 
+ Tri?n khai k? ho?ch ki?m th? c? th?. Ð?m b?o môi tru?ng ki?m th? không có v?n d? gì v?i d? án, h? tr? vi?c qu?n lý h? th?ng chuyên nghi?p cho môi tru?ng th? nghi?m 
+ RR09 Phân công công vi?c không h?p lý Trung bình  Tìm hi?u nguyên nhân, t? ch?c h?p dua ra gi?i pháp kh?c ph?c s?m nh?t  Lên k? ho?ch phân công công vi?c ngay t? d?u, d?m b?o tính linh ho?t, s?n sàng trong m?i tru?ng h?p có th? thay d?i  RR10 Giao di?n không h?p lý, khó s? d?ng Trung bình Có phuong án thi?t k? l?i giao di?n c?a ph?n m?m. Kh?o sát th? tru?ng d? có cách nhìn khách quan nh?t B?n thi?t k? giao di?n c?n du?c xem xét tru?c khi b?t tay vào th?c hi?n. Ð?t d?a v? là ngu?i s? d?ng d? dánh giá giao di?n c?a ph?n m?m. RR11 Ph?n m?m liên t?c c?n b?o trì, hi?u su?t th?p Cao Nhanh chóng tìm ki?m các nguyên nhân tr?c ti?p ?nh hu?ng d?n hi?u su?t. Vi?c b?o trì c?n xong s?m nh?t có th? Theo dõi, phân tích r?i ro s?m, có nh?ng ph?ng doán d? lu?ng tru?c các v?n d? phát sinh RR12 Ph?n m?m không d? tin c?y, thu?ng xuyên x?y ra l?i 
+ Cao Tìm hi?u nguyên nhân gây ra l?i, nhanh chóng gi?i quy?t và ki?m tra l?i tránh các l?i tuong t? 
+ Có chi?n lu?c thi?t k? th? nghi?m nghiêm kh?c 
+ RR13 Ph?n m?m không d?m b?o tính b?o m?t, gây rò r?, m?t thông tin ngu?i dùng 
+ Cao Phân tích r?i ro, ki?m tra l?i vùng quan tr?ng c?a h? th?ng, dua ra chính sách gi?i quy?t cho ngu?i dùng. Nhanh chóng kh?c ph?c d?m b?o tính b?o m?t cho tài kho?n ngu?i dùng 
+ Lên k? ho?ch c?n th?n, qu?n lý t?t d?ng th?i có k? ho?ch ki?m nghi?m nghiêm kh?c 
+ R?i ro v? kinh doanh RR14 Các ch?c nang du?c xây d?ng chua có nhi?u d?i m?i  Cao Lên ý tu?ng, l?y nhu c?u c?a ngu?i dùng làm m?c tiêu d? có th? sáng t?o  Tìm hi?u th? tru?ng, trao d?i v?i khách hàng  RR15 Chi phí u?c tính không chu?n  Trung bình Ðánh giá l?i m?c chi phí c?a d? án, dàm phán l?i v?i khách hàng và th?ng nh?t m?c kinh phí c? th?  Ðánh giá m?c kinh phí t?i thi?u c?a d? án, dua ra m?c kinh phí phù h?p d? dáp ?ng du?c nh?ng nhu c?u c?n thi?t B?ng 5. B?ng bi?u phân tích r?i ro c?a d? án
+Ph?n 7. QU?N LÝ C?U HÌNH
+1. Các m?c c?u hình
+   CI là các thông tin du?c t?o trong quá trình phát tri?n ph?n m?m, bao g?m:
+* Chuong trình máy tính
+* Các tài li?u: k? ho?ch d? án, tài li?u d?c t?, ...
+* D? li?u
+Mã CITên CIMô t?CI01Tài li?u k? ho?ch d? án
+(Project Plan)Tài li?u t?ng quan v? d? án nhu nhân s?, ph?m vi d? án, các r?i ro, c?u hình và l?ch trình d? ánCI02Tài li?u kh?o sát yêu c?u ngu?i s? d?ng (URD)
+Tài li?u t?ng h?p yêu c?u c?a ngu?i dùng, các d?i tu?ng kh?o sát, n?i dung kh?o sát, k?t qu? và k?t lu?n sau kh?o sátCI03Tài li?u thi?t k? ch?c nang
+(Function Document)Mô t? chi ti?t các th?c th?, tác nhân và các ch?c nang chính trong h? th?ngCI04Tài li?u thi?t k? co s? d? li?u
+(Design Document)Tài li?u d?c t? chi ti?t co s? d? li?u bao g?m các thông tin c?a b?ng, m?i quan h? gi?a các b?ng, các ràng bu?c v? m?t d? li?u và quan h?CI05Tài li?u ki?m th? và s?a l?i (Test Plan)
+Tài li?u các lo?i ki?m th?: Giao di?n, ch?c nang, b?o m?t. Các thông tin v? s?a l?i khi dã ki?m th?CI06Tài li?u hu?ng d?n s? d?ng ph?n m?m
+(Software Manuals)Tài li?u hu?ng d?n s? d?ng các ch?c nang c?a h? th?ng cho các d?i tu?ng s? d?ng: Khách hàng, ngu?i s? d?ngCI07D? li?u (Data)Tài li?u các thông tin xây d?ng h? th?ngCI08Tài li?u các phiên b?n ph?n m?mT?ng h?p các tài li?u liên quan d?n các phiên b?n khác nhau du?c t?o ra trong quá trình th?c hi?n d? ánCI09Tài li?u tri?n khaiT?ng h?p tài li?u tri?n khai h? th?ng và các thông tin bàn giao h? th?ng cho khách hàngB?ng 6.B?ng m?c l?c các c?u hình
+
+2. Baseline
+    Baseline là m?t m?c trong quá trình phát tri?n ph?n m?m du?c ghi nh?n b?ng m?t hay nhi?u don v? c?u hình.
+Mã Baseline   Baseline  Time CI BL01 Startup 01/06/2023 Project Plan (CI01) BL02 Survey 13/07/2023 URD (CI02) BL03 Analysis 28/08/2023 Project Plan (CI01) 
+URD (CI02) 
+Function Document (CI03) 
+ BL04 Design  21/09/2023 Project Plan (CI01) 
+URD (CI02) 
+Function Document (CI03) 
+Design Document (CI04) BL05 Develop 30/10/2023 Project Plan (CI01) 
+URD (CI02) 
+Function Document (CI03) 
+Design Document (CI04) 
+Data (CI07) BL06 Test  14/12/2023 Project Plan (CI01) 
+URD (CI02) 
+Function Document (CI03) 
+Design Document (CI04) 
+Test Plan (CI05) 
+Data (CI07) BL07 Release 06/03/2024 Project Plan (CI01) 
+URD (CI02) 
+Function Document (CI03) 
+Design Document (CI04) 
+Test Plan (CI05) 
+Software Manual (CI06) 
+Data (CI07) BL08 Finish 20/03/2024 Project Plan (CI01) 
+URD (CI02) 
+Function Document (CI03) 
+Design Document (CI04) 
+Test Plan (CI05) 
+Software Manual (CI06) 
+Data (CI07) B?ng 7.B?ng baseline
+
+3. Các m?c ki?m soát
+MãK?t thúc giai do?nNgày báo cáoN?i dungTrách nhi?m1Kh?i d?ng d? án01/06/2023
+B?n k? ho?ch th?c hi?n d? ánChinh, QuangAnh, Thi?n2Kh?o sát d? án13/07/2023
+Báo cáo kh?o sát h? th?ng
+B?n d?c t? yêu c?u khách hàng Báo cáo ti?n d? , ti?n trình d? ánChinh, Thi?n3Phân tích28/08/2023
+Phân tích h? th?ng d?a trên yêu c?u khách hàng
+Hoàn thành b?ng phân tích nghi?p v?
+Báo báo ti?n trình d? ánChinh, Quang Anh4Thi?t k?21/09/2023
+Ki?m tra các so d? thi?t ki?
+Ki?m tra CSDL
+Ki?m tra các giao di?n thi?t k?
+Báo cao ti?n trình d? ánChinh, Quang Anh, Thi?n5L?p trình30/10/2023
+Bàn giao chuong trình
+Báo cáo ti?n d? l?p trình
+Báo cáo ti?n d? d? ánQuang Anh, Thi?n6Ki?m th?14/12/2023
+Báo cáo k? ho?ch và k?t qu? ki?m th?
+Báo cáo s?a l?i sau ki?m th?Chinh, Quang Anh, Thi?n7Tri?n khai h? th?ng06/03/2024
+Báo cáo k? ho?ch tri?n khai h? th?ng
+Báo cáo k?t qu? tri?n khai h? th?ngChinh, Quang Anh, Thi?n
+8K?t thúc d? án20/03/2024
+T?ng k?t d? ánChinh, Quang Anh, Thi?nB?ng 8.Các m?c ki?m soát
+4. Co ch? d?t tên và dánh s? 
+    Ð?i v?i các t?p tin mã ngu?n: các t?p tin này có co ch? dánh s? t? d?ng. Phiên b?n d?u tiên s? là phiên b?n 1.0. B?t kì có s? thay d?i l?n nào trong mã ngu?n thì phiên b?n gán s? 1.1, 1.2, 1.3, ... V?i các thay d?i nh? có th? gán s? phiên b?n m?c nh? hon nhu 1.1.1, 1.1.2, 1.1.3, ... Khi mã ngu?n b? sung thêm module hay b?t k? thay d?i quan tr?ng nào trong mã ngu?n thì có th? dánh s? phiên b?n 2.0, 3.0, ... 
+    Ð?i v?i các tài li?u: Phiên b?n g?c du?c dánh s? là 0.01. Các phiên b?n s?a l?i ti?p theo s? du?c dánh s? 0.02, 0.03, ... Phiên b?n baseline s? là 1.0. Các tài li?u có th? du?c thay d?i nhu là k?t qu? c?a vi?c thi?t k? l?i ho?c yêu c?u thay d?i c?a b?t kì giai do?n nào. Các phiên b?n m?i du?c t?o ra du?c dánh s? là 1.1, 1.2, v.v. 
+5. C?u trúc thu m?c
+
+B?ng 9.C?u trúc c?a m?t thu m?c co b?n
+Thu m?c chaThu m?cN?i dungGhi chúN/AROOTN?i dung toàn b? 
+d? ánThu m?c g?c c?a d? ánROOTWIPCác công vi?c dang làmWork in progressROOTControlCác ch?c nang dã hoàn thi?nSo v?i thu m?c WIP thì ch? khác là không có thu m?c USERSROOTBaselineD? li?u c?a t?ng m?c trong quy trìnhROOTReferencesTài li?u tham kh?oROOTReusedNh?ng thành ph?n s? d?ng l?i du?cROOTBackupCác b?n sao luu d? phòngSao luu theo t?ng tu?n, tùy thu?c vào lo?i tài li?u và d?i tu?ng sao luuWIPAnalysisTài li?u phân tíchWIPDesignTài li?u thi?t k?WIPProgramChuong trìnhWIPSystem TestTài li?u ki?m tra h? th?ngWIPUsersThu m?c phân quy?n dành cho các thành viên tham gia d? ánCh? có ngu?i qu?n tr? d? án m?i có quy?n trên toàn b? thu m?c. Còn các thành viên khác ch? có quy?n trên thu m?c c?a mìnhWIPProject ManTài li?u qu?n lý d? ánProject ManPlansK? ho?ch d? ánProject ManDeliverablesPhân ph?i công vi?cCh? có qu?n lý d? án m?i có quy?n phân quy?n công vi?cProject ManReportsCác báo cáoProject ManTempThu m?c t?mBaselineStartupTài li?u c?a giai do?n kh?i d?ngBaselineSurvey
+Tài li?u sau kh?o sátBaselineAnalysisTài li?u phân tích nghi?p v?BaselineDesignTài li?u thi?t k?BaselineDevelopTài li?u và mã ngu?n c?a giai do?n phát tri?nBaselineTestTài li?u c?a giai do?n ki?m th? và s?a l?iBaselineRelease
+Tài li?u c?a giai do?n tri?n khai h? th?ngBaselineFinishS?n ph?m cu?iB?ng 10.B?ng chi ti?t c?u trúc c?a m?t thu m?c
+6. Qu?n lý phân quy?n
+ QLCH Phân tích Thi?t k? L?p trình Ki?m th? QLDA WIP R R R R R R Analysis R ALL R R R R Design R R ALL R R R Program R R R ALL R R Test R R R R ALL R Project Manager R R R R R ALL Control ALL R R R R R Baseline ALL R R R R R B?ng 11.B?ng qu?n lý phân quy?n
+R: Read only 
+ALL: Access all system  
+7. Sao luu d? phòng
+N?i dung Phuong ti?n Co ch? luu file T?n su?t update Trách nhi?m Mã ngu?n GitHub  3 l?n/ tu?n Quang Anh  Tài li?u toàn b? d? án Google driver  4 l?n/ tu?n T?t c? các thành viên Tài li?u riêng c?a thành viên d? án M?i phuong ti?n luu tr? cá nhân M?i hình th?c Hàng ngày T?t c? các thành viên 
+ 
+ B?ng 12.B?ng sao luu
+8. Các tài li?u , s?n ph?m c?n bàn giao
+STT Tên Ghi chú 1 Tài li?u hu?ng d?n s? d?ng ph?n m?mHu?ng d?n khách hàng chi ti?t cách s? d?ng ph?n m?m2 Tài li?u v?n hànhNêu rõ t?ng bu?c th?c hi?n các ch?c nang cho khách hàng3 S?n ph?mPh?n m?m hoàn ch?nh cu?i cùngB?ng 13.B?ng chi ti?t c?n bàn giao
+Ph?n 8. KI?M TH? VÀ Ð?M B?O CH?T LU?NG
+    Nh?ng tiêu chí c?n dánh giá và t? l? : 
+STTTên tiêu chí
+M?c dích
+Th?i gian tính toán tiêu chíT? l?Ðánh giá quá trình th?c hi?n 1 Project Schedule Deviation(T? l? d? l?ch ti?n d?) Cung c?p thông tin d? l?ch v? ti?n d? d? án. H?t m?i gia do?n 
+H?t m?c ki?m soát 
+K?t thúc d? án 5% 2 Effort Deviation(Hi?u qu? s? d?ng nhân l?c) Theo dõi nhân công th?c t? so v?i d? ki?n. H?t m?i giai do?n 
+K?t thúc d? án 90% 3 Quality Cost(M?c d? ch?t lu?ng s?n ph?m) Cung c?p s? li?u v? nhân công c?a d? án dành cho các ho?t d?ng ch?t lu?ng và hi?u qu? c?a các ho?t d?ng dó cho d? án. H?t m?i giai do?n 
+K?t thúc d? án 85% 4 Corection Cost(M?c d? chi phí s?a ch?a s?n ph?m) Cung c?p s? li?u v? chi phí s?a ch?a có nghia là các kho?n phí h?p lý , nh?m tránh ho?c gi?m t?n th?t cho d? án ho?c khách hàng do các l?i th?c hi?n gây ra. H?t m?i giai do?n 
+K?t thúc d? án 90% 5 Defect Removal Eficiency(Hi?u qu? tìm l?i) Cung c?p s? li?u v? tính hi?u qu? c?a các ho?t d?ng xem xét và test. H?t m?i giai do?n 
+K?t thúc d? án 92% 6 Test effective ness(Nang su?t xem xét và ki?m tra) Cung c?p s? li?u v? hi?u qu? c?a các ho?t d?ng xem xét và test. H?t m?i giai do?n 
+K?t thúc d? án 95% Ðánh giá s?n ph?m 1 Requirement Completeness(T? l? hoàn thành yêu c?u) Ðo m?c d? hoàn thành yêu c?u H?t m?i gia do?n 
+K?t thúc d? án 98% 2 Timeliness(Tính dúng h?n) Ðo kh? nang bàn giao dúng h?n cho khách hàng H?t m?i gia do?n 
+H?t m?c ki?m soát 
+K?t thúc d? án 95% 3 Delivery Schedule Deviation(T? l? d? l?ch bàn giao) Cung c?p thông tin v? d? l?ch ngày bàn giao s?n ph?m c?a d? án H?t m?i gia do?n 
+H?t m?c ki?m soát 
+K?t thúc d? án 90% 4 Defect Rate(T? l? sai sót) Ðánh giá m?c d? sai l?ch so v?i yêu c?u khách hàng H?t m?i gia do?n 
+H?t m?c ki?m soát 
+K?t thúc d? án 5% 5 Customer Satisfaction(M?c d? hài lòng c?a khách hàng) Ðánh giá v? s? hài lòng c?a khách hàng d?i v?i d? án, s?n ph?m, d?ch v? Ð?i v?i d? án: Khi k?t thúc d? án  
+Ð?i v?i don v?: Ð?nh k? 6 tháng 96% B?ng 14.Các tiêu chí dánh giá
+Ph?n 9. MICROSOFT PROJECT
+
+Hình 2.Resource overview
+
+
+
+Hình 3.T?ng quan d? án
+Ph?n 10. GITHUB
+
+
+1
+
+
+
+
+Trang 25
+
+
